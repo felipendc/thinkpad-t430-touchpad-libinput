@@ -25,9 +25,3 @@ Or, add these configurations below at the end of your "40-libinput.conf" file at
     Option "Tapping" "on"
 EndSection </pre>
 
-
-## // Installing Touchpad Pinch Gestures : 
-
-To install *'libinput-gestures'* we'll use the "Trizen Package Manager"
-
-<pre>trizen -S libinput-gestures</pre>
