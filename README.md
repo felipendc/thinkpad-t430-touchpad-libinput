@@ -8,6 +8,9 @@ You need to install "libinput" first: <br />
 <pre>sudo pacman -S libinput</pre>
 
 
+![Demo](https://i.imgur.com/yuUWxYF.jpg)
+##
+
 ## Downloading the 40-libinput.conf file: 
 
 Download "40-libinput.conf" to *'/usr/share/X11/xorg.conf.d/40-libinput.conf/'* <br />
