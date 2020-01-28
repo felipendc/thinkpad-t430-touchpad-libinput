@@ -1,4 +1,4 @@
-# Thinkpad-T430-Touchpad-libinput:
+# Thinkpad-T430-Touchpad libinput and Gestures:
 
 ## // Installing libinput: 
 
@@ -21,3 +21,8 @@
 EndSection </pre>
 
 
+## // Installing Touchpad Pinch Gestures : 
+
+4) To install *'libinput-gestures'* we'll use the "Trizen Package Manager"
+
+<pre>trizen -S libinput-gestures</pre>
