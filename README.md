@@ -10,7 +10,7 @@
 
 2) Download "40-libinput.conf" to *'/usr/share/X11/xorg.conf.d/40-libinput.conf/'* <br />
 
-<pre>git clone https://github.com/felipendc/thinkpad-t430-touchpad-libinput.git ~/usr/share/X11/xorg.conf.d/40-libinput.conf/ </pre>
+<pre>sudo git clone https://github.com/felipendc/thinkpad-t430-touchpad-libinput.git ~/usr/share/X11/xorg.conf.d/40-libinput.conf/ </pre>
 
 3) Or, add these configurations below at the end of your "40-libinput.conf" file at *'/usr/share/X11/xorg.conf.d/40-libinput.conf/'* <br />
 
