@@ -3,7 +3,7 @@
 ## // Installing libinput: 
 
 1) You need to install "libinput" first: <br />
-- sudo pacman -S libinput <br />
+<pre>sudo pacman -S libinput</pre>
 
 
 ## // Editting 40-libinput.conf file: 
