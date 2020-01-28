@@ -13,11 +13,11 @@
 3) Or, add these configurations below at the end of your "40-libinput.conf" file at *'/usr/share/X11/xorg.conf.d/40-libinput.conf/'* <br />
 
 
-*Section "InputClass"*
-*   Identifier "touchpad"*
-*    Driver "libinput"*
-*    MatchIsTouchpad "on"*
-*    Option "Tapping" "on"*
-*EndSection <br />*
+<pre>Section "InputClass"
+    Identifier "touchpad"
+    Driver "libinput"
+    MatchIsTouchpad "on"
+    Option "Tapping" "on"
+EndSection </pre>
 
 
