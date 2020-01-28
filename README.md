@@ -1,5 +1,5 @@
 ## Thinkpad T430 libinput and Gestures:
-![Demo](https://i.imgur.com/fiy4FFX.png)
+![Demo](https://i.imgur.com/fiy4FFX.png) <br />
 ##
 
 ## Installing libinput: 
@@ -8,7 +8,7 @@ You need to install "libinput" first: <br />
 <pre>sudo pacman -S libinput</pre>
 
 
-![Demo](https://i.imgur.com/yuUWxYF.jpg)
+![Demo](https://i.imgur.com/yuUWxYF.jpg) <br />
 ##
 
 ## Downloading the 40-libinput.conf file: 
