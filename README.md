@@ -1,4 +1,4 @@
-# Thinkpad-T430-Touchpad libinput and Gestures:
+## Thinkpad T430 libinput and Gestures:
 ![Demo](https://i.imgur.com/fiy4FFX.png)
 ##
 
